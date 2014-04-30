@@ -13,6 +13,6 @@ Just awesome icon for Sublime text
 
 3. Find the app whose icon you want to change and highlight it.
 
-4. Press CMD-I, and on the top left corner there should be the app's current icon. CMD-P to paste the new one. 
+4. Press CMD-I, and on the top left corner there should be the app's current icon. CMD-V to paste the new one. 
 
 5. Quit the app and reopen.
